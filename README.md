@@ -1,6 +1,6 @@
 ### Hey there! 👋🏻
 
-## I am Divij Chhabra
+# I am Divij Chhabra
 ## A Sophomore at Chitkara University
 
 
