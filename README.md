@@ -1,7 +1,7 @@
 ### Hey there! 👋🏻
 
 # I am Divij Chhabra
-## A Sophomore at Chitkara University
+### A Sophomore at Chitkara University
 
 
 - 🔭 I’m currently working on Databases & ReactJS
