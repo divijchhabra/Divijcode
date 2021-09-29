@@ -2,7 +2,7 @@
 
 # I am Divij Chhabra
 ### Student at Chitkara University
-##I also build custom websites and apps, Checkout my profile on fiverr : https://www.fiverr.com/divijchhabra
+## I also build custom websites and apps, Checkout my profile on fiverr : https://www.fiverr.com/divijchhabra
 
 
 - 🔭 I’m currently working on Databases & ReactJS
